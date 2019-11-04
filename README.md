@@ -19,8 +19,6 @@ Overview
 
 To install the package enter the following in the command prompt.
 
-::
-
     pip install solvency2-data-science
     
 
