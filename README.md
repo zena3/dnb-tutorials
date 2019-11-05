@@ -4,7 +4,7 @@ solvency2-data-science
 Package with data science projects using public Solvency 2 data of individual insurance undertakings from the DNB website. 
 
 * Free software: MIT/X license
-* Documentation: https://solvency2-data.readthedocs.io.
+* Documentation: https://solvency2-data-science.readthedocs.io.
 
 Features
 --------
