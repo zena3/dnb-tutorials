@@ -12,6 +12,7 @@ Features
 Here is what the package contains:
 
 - Tutorial using the public Solvency 2 data of all Dutch insurance undertakings to analyze the data and apply some powerful machine learning algorithms. The Solvency 2 data of individual insurance undertakings are published yearly by the Statistics department of DNB. The data represents the financial and solvency situation of each insurance undertaking at the end of each year.
+- Tutorial using the data-patterns package for generating and evaluating patterns in quantitative reports.
 
 
 Overview
