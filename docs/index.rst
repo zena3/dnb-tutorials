@@ -11,12 +11,3 @@ solvency2-data-science documentation!
 
 .. include:: ../README.rst
 .. include:: ../CONTRIBUTING.rst
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
