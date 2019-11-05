@@ -11,10 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   getting-started
-   commands
-
 .. include:: ../README.rst
+.. include:: ../CONTRIBUTING.rst
 
 
 

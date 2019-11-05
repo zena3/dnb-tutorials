@@ -26,5 +26,5 @@ To install the package enter the following in the command prompt.
 Credits
 -------
 
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+This project is based on the cookie cutter data science project template: 
+https://drivendata.github.io/cookiecutter-data-science/
