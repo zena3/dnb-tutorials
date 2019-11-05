@@ -6,8 +6,6 @@
 solvency2-data-science documentation!
 ==============================================
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
 
