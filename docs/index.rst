@@ -14,6 +14,8 @@ Contents:
    getting-started
    commands
 
+.. include:: ../README.rst
+
 
 
 Indices and tables
