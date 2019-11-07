@@ -74,6 +74,9 @@ target/
 
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
+.DS_Store
+notebooks/.DS_Store
+notebooks/.ipynb_checkpoints/
 
 # exclude data from source control by default
 /data/
