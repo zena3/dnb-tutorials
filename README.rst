@@ -14,14 +14,18 @@ Here is what the package contains:
 
 - Tutorial using the public Solvency 2 data of all Dutch insurance undertakings to analyze the data and apply some powerful machine learning algorithms. The Solvency 2 data of individual insurance undertakings are published yearly by the Statistics department of DNB. The data represents the financial and solvency situation of each insurance undertaking at the end of each year.
 
+Installation
+------------
 
-Overview
---------
+Clone the project::
 
-To install the package enter the following in the command prompt.
+    git clone https://github.com/DeNederlandscheBank/solvency2-nlp.git
 
-    pip install solvency2-data-science
-    
+Install the required packages::
+
+    pip install -r requirements.txt
+
+This installs the packages that we use.
 
 Credits
 -------
