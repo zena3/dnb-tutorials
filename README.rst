@@ -19,7 +19,7 @@ Installation
 
 Clone the project::
 
-    git clone https://github.com/DeNederlandscheBank/solvency2-nlp.git
+    git clone https://github.com/DeNederlandscheBank/solvency2-data-science.git
 
 Install the required packages::
 
