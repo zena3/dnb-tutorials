@@ -1,4 +1,4 @@
-def get_sheet(num):
+def get_sheet(xls, num):
     """This function extracts the data from a worksheet and puts it in a DataFrame and the column names are set 
     to lower case. An index of the DataFrame is set to the insurance undertaking name and the reporting period. Then 
     we perform some cleaning (the original worksheets contain some process information). In addition, some worksheets 
