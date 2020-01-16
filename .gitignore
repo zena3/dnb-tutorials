@@ -80,7 +80,6 @@ notebooks/.ipynb_checkpoints/
 notebooks/*.xlsx
 
 # exclude data from source control by default
-/data/
 
 # Mac OS-specific storage files
 .DS_Store
