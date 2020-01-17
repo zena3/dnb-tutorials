@@ -19,3 +19,4 @@ sklearn
 data-patterns
 future>=0.15.2
 jupyter
+xlrd >= 1.0.0
