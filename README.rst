@@ -1,11 +1,10 @@
-======================
-solvency2-data-science
-======================
+=============
+dnb-tutorials
+=============
 
-Package with data science projects using public Solvency 2 data of individual insurance undertakings from the DNB website. 
+Package with data science tutorials and examples using public packages from github/DeNederlandscheBank. 
 
 * Free software: MIT/X license
-* Documentation: https://solvency2-data-science.readthedocs.io.
 
 Features
 --------
@@ -13,14 +12,16 @@ Features
 Here is what the package contains:
 
 * Tutorial Solvency 2 data. Application of some powerful machine learning algorithms using the public Solvency 2 data of all Dutch insurance undertakings. The Solvency 2 data of individual insurance undertakings are published yearly by the Statistics department of DNB. The data represents the financial and solvency situation of each insurance undertaking at the end of each year.|
-* Tutorial pattern mining. Introduction to the use of the data-pattern package.
+* Tutorial data-patterns package. Introduction to the use of the data-pattern package.
+* Tutorial ruleminer package. Introduction to the use of the ruleminer package.
+* Tutorial nafigator package. 
 
 Installation
 ------------
 
 Clone the project::
 
-    git clone https://github.com/DeNederlandscheBank/solvency2-data-science.git
+    git clone https://github.com/DeNederlandscheBank/dnb-tutorials.git
 
 Install the required packages::
 

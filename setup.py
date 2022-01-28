@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='Data science projects with Solvency 2 data',
+    description='Data science tutorials and examples',
     author='DeNederlandscheBank',
     license='MIT',
 )
